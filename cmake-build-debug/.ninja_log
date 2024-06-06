@@ -1,0 +1,5 @@
+# ninja log v6
+452	502	1717595319668798692	serviceOriantedArchitecture	75b77a8f723d4d04
+2	586	1717666285239742243	build.ninja	64db7bc0c01ea16b
+1	1531	1717666293832701985	CMakeFiles/serviceOrientedArchitecture.dir/main.cpp.o	5c7b3c3f265cf13b
+1534	1589	1717666295365729500	serviceOrientedArchitecture	ed1ce0c443325cc8
